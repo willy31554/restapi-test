@@ -1,0 +1,4 @@
+﻿username,password,expected_result
+student,Password123,Passed
+student,Password123,Passed
+student,Password1234,Failed
